@@ -1,0 +1,13 @@
+some ideas for future versions
+
+1. random fact of the day, fetch from web and show it on top, if possible than a moving text
+(right to left the starts again from the right somethign like that)
+
+2. score, highscore
+
+3. facts and history about stone paper scissors
+
+4. time calculate to how many time since you are playing
+
+5. add event listenerrs and images to press keys instead of clicking stone paper scissors
+
